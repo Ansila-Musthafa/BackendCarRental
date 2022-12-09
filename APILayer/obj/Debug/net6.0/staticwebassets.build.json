@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "S2tNyntOx2gtpksyKZbWSsdkHELDzriQpbC15HS17lE=",
+  "Source": "Carfluent.API",
+  "BasePath": "_content/Carfluent.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

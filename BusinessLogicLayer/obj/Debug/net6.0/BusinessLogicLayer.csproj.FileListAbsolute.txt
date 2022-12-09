@@ -1,0 +1,76 @@
+C:\Users\ajames\source\repos\CarfluentAdmin\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.deps.json
+C:\Users\ajames\source\repos\CarfluentAdmin\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.runtimeconfig.json
+C:\Users\ajames\source\repos\CarfluentAdmin\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.dll
+C:\Users\ajames\source\repos\CarfluentAdmin\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.pdb
+C:\Users\ajames\source\repos\CarfluentAdmin\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\ajames\source\repos\CarfluentAdmin\BusinessLogicLayer\bin\Debug\net6.0\GlobalEntityLayer.dll
+C:\Users\ajames\source\repos\CarfluentAdmin\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\ajames\source\repos\CarfluentAdmin\BusinessLogicLayer\bin\Debug\net6.0\GlobalEntityLayer.pdb
+C:\Users\ajames\source\repos\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\ajames\source\repos\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajames\source\repos\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\ajames\source\repos\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\ajames\source\repos\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\ajames\source\repos\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\ajames\source\repos\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.dll
+C:\Users\ajames\source\repos\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\refint\BusinessLogicLayer.dll
+C:\Users\ajames\source\repos\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.pdb
+C:\Users\ajames\source\repos\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.genruntimeconfig.cache
+C:\Users\ajames\source\repos\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\ref\BusinessLogicLayer.dll
+D:\Project\CarfluentAdmin\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.deps.json
+D:\Project\CarfluentAdmin\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.runtimeconfig.json
+D:\Project\CarfluentAdmin\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.dll
+D:\Project\CarfluentAdmin\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.pdb
+D:\Project\CarfluentAdmin\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\Project\CarfluentAdmin\BusinessLogicLayer\bin\Debug\net6.0\GlobalEntityLayer.dll
+D:\Project\CarfluentAdmin\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\Project\CarfluentAdmin\BusinessLogicLayer\bin\Debug\net6.0\GlobalEntityLayer.pdb
+D:\Project\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Project\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\Project\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\Project\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Project\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CopyComplete
+D:\Project\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.dll
+D:\Project\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\refint\BusinessLogicLayer.dll
+D:\Project\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.pdb
+D:\Project\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.genruntimeconfig.cache
+D:\Project\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\ref\BusinessLogicLayer.dll
+D:\Carfluent Git Backup\CarfluentAdmin\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.deps.json
+D:\Carfluent Git Backup\CarfluentAdmin\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.runtimeconfig.json
+D:\Carfluent Git Backup\CarfluentAdmin\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.dll
+D:\Carfluent Git Backup\CarfluentAdmin\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.pdb
+D:\Carfluent Git Backup\CarfluentAdmin\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\Carfluent Git Backup\CarfluentAdmin\BusinessLogicLayer\bin\Debug\net6.0\GlobalEntityLayer.dll
+D:\Carfluent Git Backup\CarfluentAdmin\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\Carfluent Git Backup\CarfluentAdmin\BusinessLogicLayer\bin\Debug\net6.0\GlobalEntityLayer.pdb
+D:\Carfluent Git Backup\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Carfluent Git Backup\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Carfluent Git Backup\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\Carfluent Git Backup\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\Carfluent Git Backup\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Carfluent Git Backup\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CopyComplete
+D:\Carfluent Git Backup\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.dll
+D:\Carfluent Git Backup\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\refint\BusinessLogicLayer.dll
+D:\Carfluent Git Backup\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.pdb
+D:\Carfluent Git Backup\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.genruntimeconfig.cache
+D:\Carfluent Git Backup\CarfluentAdmin\BusinessLogicLayer\obj\Debug\net6.0\ref\BusinessLogicLayer.dll
+D:\Car Rental System\Carfluent backend\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.deps.json
+D:\Car Rental System\Carfluent backend\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.runtimeconfig.json
+D:\Car Rental System\Carfluent backend\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.dll
+D:\Car Rental System\Carfluent backend\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.pdb
+D:\Car Rental System\Carfluent backend\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\Car Rental System\Carfluent backend\BusinessLogicLayer\bin\Debug\net6.0\GlobalEntityLayer.dll
+D:\Car Rental System\Carfluent backend\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\Car Rental System\Carfluent backend\BusinessLogicLayer\bin\Debug\net6.0\GlobalEntityLayer.pdb
+D:\Car Rental System\Carfluent backend\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Car Rental System\Carfluent backend\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Car Rental System\Carfluent backend\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\Car Rental System\Carfluent backend\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\Car Rental System\Carfluent backend\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Car Rental System\Carfluent backend\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CopyComplete
+D:\Car Rental System\Carfluent backend\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.dll
+D:\Car Rental System\Carfluent backend\BusinessLogicLayer\obj\Debug\net6.0\refint\BusinessLogicLayer.dll
+D:\Car Rental System\Carfluent backend\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.pdb
+D:\Car Rental System\Carfluent backend\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.genruntimeconfig.cache
+D:\Car Rental System\Carfluent backend\BusinessLogicLayer\obj\Debug\net6.0\ref\BusinessLogicLayer.dll
